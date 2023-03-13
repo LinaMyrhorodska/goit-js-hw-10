@@ -7,7 +7,7 @@ skonfigurowania dodatkowych opcji [zobacz dokumentację](https://parceljs.org/)
 
 1. Upewnij się, że na komputerze zainstalowana jest wersja LTS Node.js.
    [Ściągnij i zainstaluj](https://nodejs.org/en/), jeśli jest taka potrzeba.
-2. Sklonuj to repozytorium.
+2. Sklonuj to repozytoium.
 3. Zmień nazwę folderu z `parcel-project-template` na nazwę swojego projektu.
 4. Utwórz nowe, puste repozytorium na GitHub.
 5. Otwórz projekt w VSCode, uruchom terminal i zwiąż projekt z repozytorium
